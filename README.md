@@ -6,8 +6,8 @@ The data set produced by Ford Gobike system, the Bay Area's bike share system wi
 The link to download: https://www.fordgobike.com/system-data
 
 ## Data Visualization
-. Exploratory analysis visualization is stored in exploration.ipynb file or exploration.html file.
-. Explanatory analysis visualization is stored in slide_deck.ipynb file or slide_deck.html
-. Summary.md is a quick brief explaning process.
-. output_toggle.tpl is supporting file for slide running.
+. Exploratory analysis visualization is stored in exploration.ipynb file or exploration.html file.  
+. Explanatory analysis visualization is stored in slide_deck.ipynb file or slide_deck.html.  
+. Summary.md is a quick brief explaning process.  
+. output_toggle.tpl is supporting file for slide running.  
 
